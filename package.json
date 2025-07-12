@@ -1,0 +1,22 @@
+{
+  "name": "typescript-playground",
+  "version": "1.0.0",
+  "description": "LinkedIn JSON response adapter",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "npx ts-node src/index.ts"
+  },
+  "keywords": [
+    "typescript",
+    "linkedin",
+    "json",
+    "adapter"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "ts-node": "^10.9.0",
+    "typescript": "^5.0.0"
+  }
+}
